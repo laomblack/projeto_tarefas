@@ -1,0 +1,51 @@
+body {
+    background-image: url('https://th.bing.com/th/id/R.9847576f7cc1e0763f127c4eff76fb35?rik=qziY%2bnkdfF%2b7MA&pid=ImgRaw&r=0');
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    width: 70%;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #e2e2e2;
+    margin: 5px 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+li button {
+    background: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
